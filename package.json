@@ -12,8 +12,9 @@
     "start": "node app.js"
   },
   "dependencies": {
+    "audit": "0.0.6",
     "express": "3.x",
-    "express3-handlebars": "*",
+    "express3-handlebars": "^0.5.2",
     "mongodb": "*",
     "mongoose": "*"
   },
